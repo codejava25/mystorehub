@@ -24,6 +24,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+
 	<classpathentry kind="lib" path="C:/Users/a/Downloads/selenium-java-4.3.0/selenium-api-4.3.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/a/Downloads/selenium-java-4.3.0/selenium-api-4.3.0-sources.jar"/>
 	<classpathentry kind="lib" path="C:/Users/a/Downloads/selenium-java-4.3.0/selenium-chrome-driver-4.3.0.jar"/>
@@ -105,5 +106,7 @@
 	<classpathentry kind="lib" path="C:/Users/a/Downloads/selenium-java-4.3.0/lib/reactive-streams-1.0.4.jar"/>
 	<classpathentry kind="lib" path="C:/Users/a/Downloads/selenium-java-4.3.0/lib/slf4j-api-1.7.36.jar"/>
 	<classpathentry kind="lib" path="C:/Users/a/Downloads/testng-6.8 (1).jar"/>
+
+ main
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
